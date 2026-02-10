@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student
 ----------------------------
 
-I am a 4th year Computer Engineering student with a strong interest in embedded systems and IoT. I enjoy working with microcontrollers such as ESP32 and Arduino, and integrating GPS, GSM, and sensor-based systems into real-world projects.
+I am currently a 4th year Computer Engineering student with a strong interest in embedded systems and IoT. I enjoy working with microcontrollers such as ESP32 and Arduino, and integrating GPS, GSM, and sensor-based systems into real-world projects.
 
 I am continuously learning firmware development, hardware-software integration, and problem-solving through hands-on projects and academic work. I am eager to grow my skills and apply them in practical and meaningful applications.
 
